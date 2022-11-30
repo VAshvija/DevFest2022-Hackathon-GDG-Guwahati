@@ -1,8 +1,7 @@
----
+
 name: GDG Guwahati DevFest2022 - Hackathon
 description: 'ONLY this template to be used for submission of updated code '
 
----
 
 body:
 - type: markdown
