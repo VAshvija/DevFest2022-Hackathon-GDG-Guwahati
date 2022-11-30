@@ -3,7 +3,13 @@ name: GDG Guwahati DevFest2022 - Hackathon
 about: 'ONLY this template to be used for submission of updated code '
 
 ---
+
 body:
+- type: markdown
+    attributes:
+      value: |
+        Thanks for your participation!
+        
 - type: input
     id: contact
     attributes:
