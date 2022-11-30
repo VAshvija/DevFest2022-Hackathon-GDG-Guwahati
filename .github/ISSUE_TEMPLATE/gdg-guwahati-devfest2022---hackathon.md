@@ -1,17 +1,20 @@
 ---
 name: GDG Guwahati DevFest2022 - Hackathon
 about: 'ONLY this template to be used for submission of updated code '
-title: ''
-labels: ''
-assignees: VAshvija
 
 ---
 
 Full name: Enter Full name
+
 Project Title: Enter title of Project
+
 Project Track: Enter Project Track
+
 Link to Public Repo on GitHub: Enter Link
-More about Project:
+
+More about Project: Enter why this track, challenges faced to arrive at this solution.
+
+
 - type: input
     id: contact
     attributes:
