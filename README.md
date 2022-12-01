@@ -9,7 +9,7 @@
 - Login to your GitHub Account (Use same email used for event registration)
 - Upload your code to GitHub public repository. Complete source code must be available to the judges during the Hackathon.
 - Submission must have detailed documents and clear README file
-- Start using ONLY Issue template attached 
+- Start using ONLY Issue template attached and create NEW ISSUE for your submission. DONOT OVERWRITE EXISTING ONE
 - Issue template used should have full name
 - Click Submit
 
